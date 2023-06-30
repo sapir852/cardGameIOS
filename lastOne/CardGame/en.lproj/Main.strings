@@ -1,0 +1,21 @@
+
+/* Class = "UITextField"; placeholder = "Enter your name "; ObjectID = "Jlh-Ry-OGG"; */
+"Jlh-Ry-OGG.placeholder" = "Enter your name ";
+
+/* Class = "UIViewController"; title = "game"; ObjectID = "aOa-9i-m8d"; */
+"aOa-9i-m8d.title" = "game";
+
+/* Class = "UIButton"; configuration.title = "Start"; ObjectID = "chj-z8-E0K"; */
+"chj-z8-E0K.configuration.title" = "Start";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "chj-z8-E0K"; */
+"chj-z8-E0K.normalTitle" = "Button";
+
+/* Class = "UITextView"; text = "temp"; ObjectID = "jK2-6Z-cHM"; */
+"jK2-6Z-cHM.text" = "temp";
+
+/* Class = "UIButton"; configuration.title = "Enter"; ObjectID = "pUA-Wq-iBN"; */
+"pUA-Wq-iBN.configuration.title" = "Enter";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pUA-Wq-iBN"; */
+"pUA-Wq-iBN.normalTitle" = "Button";
